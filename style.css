@@ -1,0 +1,31 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.card {
+    border: 1px solid #ccc;
+}
+
+.card:hover {
+    border-color: #777;
+}
+
+#cartSection {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+form {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+#successMessage {
+    font-weight: bold;
+}
+
+.product {
+    transition: 0.3s;
+}
